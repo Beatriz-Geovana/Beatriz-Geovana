@@ -24,10 +24,9 @@
 
 ### 📈 Minhas Estatísticas no GitHub
 
-<div align="left">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Beatriz-Geovana&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Beatriz-Geovana&layout=compact&theme=tokyonight"/>
-</div>
+[![Estatísticas do GitHub](https://github-readme-stats-fast.vercel.app/api?username=Beatriz-Geovana&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/Beatriz-Geovana)
+
+[![Linguagens mais usadas](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Beatriz-Geovana&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Beatriz-Geovana)
 
 ---
 
