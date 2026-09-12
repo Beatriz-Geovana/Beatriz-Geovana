@@ -1,4 +1,4 @@
-# Olá, eu sou a Beatriz Giovana! 👋
+# Olá, eu sou a Beatriz Geovana! 👋
 
 ### 👩‍💻 Sobre mim
 - 🎓 Cursando o 6º semestre de **Engenharia de Software** na Universidade Santo Amaro (Unisa).
